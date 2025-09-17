@@ -26,7 +26,7 @@
 
 ---
 
-## ⚙ Backend
+##  Backend
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🗄 Databases
+##  Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
