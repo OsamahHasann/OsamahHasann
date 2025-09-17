@@ -1,29 +1,35 @@
-# 👋 Hi, I'm Osama Hasan
+![GitHub Followers](https://img.shields.io/github/followers/OsamahHasann?label=Followers&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=OsamahHasann&style=for-the-badge&color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/OsamahHasann?label=Stars&style=for-the-badge&logo=github)
+
+#  Hi, I'm Osama Hasan
 
 🎓 I'm a 3rd‑year Software Engineering student at Taiz University, Yemen  
 💻 Passionate about building Java applications and growing into a full‑stack web developer
 
 ---
 
-## 🚀 What I'm working on
+##  What I'm working on
 - Java desktop & console applications, learning design patterns and OOP principles  
 - Frontend web development with HTML, CSS, JavaScript  
 - Version control and collaboration using Git & GitHub
 
 ---
-# Skills:
+# My Skills Set:
 
 ## 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ---
 
 ## ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ---
@@ -49,11 +55,12 @@
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 - 💬 **Telegram**: [@Osamah_Da_X](https://t.me/Osamah_Da_X)  
 - 💼 **LinkedIn**: [Osama Al‑Srwry](https://www.linkedin.com/in/osama-alsrwry-174a162ab)  
 - 🐙 **GitHub**: [@osamahhasann](https://github.com/osamahhasann)
 
 ---
 
-> ⚡ Fun fact: I build my future one line of code at a time — because real learning happens in action.
+![Osamah's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamahHasann&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamahHasann&layout=compact&theme=blueberry)
