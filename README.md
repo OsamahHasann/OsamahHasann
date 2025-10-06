@@ -5,13 +5,13 @@
 #  Hi, I'm Osama Hasan
 
  I'm a 3rd‑year Software Engineering student at Taiz University, Yemen  
- Passionate about building Java applications and growing into a full‑stack web developer
+ Passionate about building Java applications and growing into a full‑stack web developer in both the front-end and back-end , and I am currently interested in React and mobile application development.
 
 ---
 
 ##  What I'm working on
-- Java desktop & console applications, learning design patterns and OOP principles  
-- Frontend web development with HTML, CSS, JavaScript  
+- Java desktop & console applications,design UML, learning design patterns and OOP principles  
+- Frontend web development with HTML, CSS, JavaScript and more 
 - Version control and collaboration using Git & GitHub
 
 ---
