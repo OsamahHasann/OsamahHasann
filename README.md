@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-ori
 
 ##  Connect with me
 - 💬 **Telegram**: [@Osamah_Da_X](https://t.me/Osamah_Da_X)  
-- 💼 **LinkedIn**: [Osama Al‑Srwry](https://www.linkedin.com/in/osama-alsrwry-174a162ab)  
+- 💼 **LinkedIn**: [Osamah hasan](https://www.linkedin.com/in/osamah-hasan-89b8b2391)  
 - 🐙 **GitHub**: [@osamahhasann](https://github.com/osamahhasann)
 
 ---
