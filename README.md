@@ -12,13 +12,16 @@
     <img src="https://komarev.com/ghpvc/?username=OsamahHasann&style=flat-square&label=Profile+Views&color=blueviolet" alt="Profile Views" />
   </p>
 
-  <br/>
-
   
   <h1 style="display: inline-block">Hi there, I'm Osama Hasan</h1>
   
-  <p style = "font-size:50px; color: green">Building Java Applications<br><br>Full-Stack Web Solutions<br><br>Mobile App Development</p>
-
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 20px; color: #2E8B57; font-weight: bold; line-height: 1.8;">
+  Building Java Applications
+  <br/>
+  Full-Stack Web Solutions
+  <br/>
+  Mobile App Development
+</p>
   <br/><br/>
 
   <a href="https://t.me/Osamah_Da_X" target="_blank">
