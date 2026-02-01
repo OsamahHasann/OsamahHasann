@@ -17,28 +17,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   <h1 style="display: inline-block">Hi there, I'm Osama Hasan</h1>
   
-  <p>
-    <b>Software Engineering Student | Full-Stack Developer | Mobile App Enthusiast</b>
-  </p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Building+Java+Applications;Crafting+Full-Stack+Web+Solutions;Exploring+Mobile+Development" alt="Typing SVG" />
-  </a>
+  <code>Building Java Applications  •  Full-Stack Web Solutions  •  Mobile App Development</code>
 
   <br/><br/>
 
   <a href="https://t.me/Osamah_Da_X" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=social&logo=telegram" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45" alt="Telegram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamah-hasan-89b8b2391" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=social&logo=gmail" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/osamahhasann">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" alt="GitHub" />
+  </a>
+
   <br/><br/>
   
   <p align="center" style="max-width: 600px;">
