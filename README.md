@@ -14,23 +14,23 @@
 
   <br/>
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  
   <h1 style="display: inline-block">Hi there, I'm Osama Hasan</h1>
   
-  <code>Building Java Applications  •  Full-Stack Web Solutions  •  Mobile App Development</code>
+  <p style = "font-size:50px; color: green">Building Java Applications<br><br>Full-Stack Web Solutions<br><br>Mobile App Development</p>
 
   <br/><br/>
 
   <a href="https://t.me/Osamah_Da_X" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"  height="35" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamah-hasan-89b8b2391" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35"  height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35"  height="35" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/osamahhasann">
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-  <h3 style="color: #333;">🛠️ Technical Arsenal</h3>
+  <h3 style="color: #333;"> Technical Arsenal</h3>
   
   <p><b>Languages</b></p>
   <p>
