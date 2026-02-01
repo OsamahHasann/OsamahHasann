@@ -22,6 +22,9 @@
   <br/>
   Mobile App Development
 </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Building+Java+Applications;Full-Stack+Web+Solutions;Mobile+App+Development" alt="My Skills" />
+</a>
   <br/><br/>
 
   <a href="https://t.me/Osamah_Da_X" target="_blank">
