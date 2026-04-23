@@ -20,24 +20,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Building+Desktop+Applications;Full-Stack+Web+Solutions;Mobile+App+Development" alt="My Skills" />
 </a>
   <br/><br/>
-
-  <a href="https://t.me/Osamah_Da_X" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"  height="35" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/osamah-hasan-89b8b2391" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35"  height="35" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35"  height="35" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osamahhasann">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" alt="GitHub" />
-  </a>
-
-  <br/><br/>
   
   <p align="center" style="max-width: 600px;">
     I'm a 3rd-year <b>Software Engineering student</b> at Taiz University, Yemen. <br/>
@@ -113,3 +95,22 @@
   <img width="20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamahHasann&layout=compact&theme=calm&hide_border=true&bg_color=transparent" alt="Top Languages" height="150" />
 </div>
+<br>
+
+<div align="center">
+  <a href="https://t.me/Osamah_Da_X" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"  height="35" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/osamah-hasan-89b8b2391" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35"  height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="35"  height="35" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/osamahhasann">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" alt="GitHub" />
+  </a>
+  </div>
